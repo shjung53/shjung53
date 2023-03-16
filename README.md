@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://velog.io/@shjung53" target="_blank"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=social&logo=appveyor&logoColor=20C997"/></a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shjung53)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://velog.io/@shjung53"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=social&logo=appveyor&logoColor=20C997"/></a>
+
+
+
+
+
+
+<br/>
+<a href="https://velog.io/@shjung53"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=social&logo=appveyor&logoColor=20C997"/></a>
