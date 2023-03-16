@@ -1,24 +1,12 @@
-### Hi there 👋
 
 
-**shjung53/shjung53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- <
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🖐 Hi there! I'm Android developer using java and kotlin.😄
 
 
+💪 Skills
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shjung53)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://velog.io/@shjung53"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=social&logo=appveyor&logoColor=20C997"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
+
 
 
 
