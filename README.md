@@ -1,5 +1,5 @@
-🖐Hi there! I'm Android developer using java and kotlin.😄
-🏀I love basketball and tennis.🎾
+🖐Hi there! I'm Android developer using java and kotlin.😄  
+🏀I love basketball and tennis.🎾  
 👨‍💻I'm trying to be a good developer...
 
 <br/>
