@@ -12,7 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shjung53&show_icons=true&theme=dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shjung53&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shjung53)](https://velog.io/@iamkanguk)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shjung53)](https://velog.io/@shjung53)
 
 <br/>
   
