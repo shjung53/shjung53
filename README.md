@@ -1,6 +1,6 @@
-🖐Hi there! I'm Android developer using java and kotlin.😄  
-🏀I love basketball and tennis.🎾  
-👨‍💻I'm trying to be a good developer...
+🖐문제 푸는 걸 좋아하는 개발자😄  
+🏀농구와 테니스가 취미입니다🎾  
+👨‍💻지식을 쌓는 중..
 
   
 
