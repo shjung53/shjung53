@@ -9,12 +9,12 @@
 <h1>💪 Skills</h1>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
-
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shjung53&show_icons=true&theme=light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shjung53&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)  
 
+<h3>작고 하찮은 블로그</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shjung53)](https://velog.io/@shjung53)
   
